@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '25298'
     url: http://www.gutenberg.org/2009/agents/25298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22379#Masters-of-Water-Colour-Painting
 gutenberg_bookshelf: Art
 gutenberg_issued: '2007-08-23'
 gutenberg_type: Text
