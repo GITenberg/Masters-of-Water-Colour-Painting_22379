@@ -1,0 +1,40 @@
+_repo: Masters-of-Water-Colour-Painting_22379
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Cundall, H. M. (Herbert Minton)
+    alias: Cundall, Herbert Minton
+    birthdate: 1848
+    deathdate: 1940
+    gutenberg_agent_id: '25299'
+    url: http://www.gutenberg.org/2009/agents/25299
+covers:
+- cover_type: archival
+  image_path: 22379-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, Geoffrey
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Charles Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22379'
+  lccn: '23005136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Watercolor painting, British'
+- !lcc 'ND'
+title: Masters of Water-Colour Painting
+url: http://www.gutenberg.org/ebooks/22379
